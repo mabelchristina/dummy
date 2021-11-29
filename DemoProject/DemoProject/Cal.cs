@@ -6,10 +6,10 @@ namespace DemoProject
 {
     class Cal
     {
-        public void Add()
+        public void sub()
         {
             int a, b, c;
-            c = a + b;
+            c = a - b;
 
         }
     }
